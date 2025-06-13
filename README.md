@@ -191,6 +191,6 @@ cam.release()
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through below handles.
-<a href="https://twitter.com/ahadprasla34"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25">@ahadd</img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ahad-rahim-prasla-a5aaa9235"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"> Pratham Bhatnagar</img></a>
+<a href="https://twitter.com/ahadprasla34"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25">@ahadd</img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ahad-rahim-prasla-a5aaa9235"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"> Ahad Prasla </img></a>
 
 </div>
